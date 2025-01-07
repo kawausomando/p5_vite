@@ -6,5 +6,5 @@ https://nodejs.org/en
 
 # 実行
 ```
-cd template & npm ci & npm run dev
+cd template && npm ci && npm run dev
 ```
